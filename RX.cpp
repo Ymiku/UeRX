@@ -1,5 +1,3 @@
-// Copyright © 2018-2020 Tencent. All Rights Reserved.
-
 #include "RX.h"
 
 FRXModelBase* URXInstance::Start()
